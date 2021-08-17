@@ -1,1 +1,0 @@
-# eb_covid_assessment
